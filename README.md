@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is ZhangLS0524 or Zach, Welcome to my Github Profile. 😊🎉</p>
+<a href="https://www.linkedin.com/in/zhangls0524"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ###
 
@@ -35,6 +36,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
@@ -49,3 +52,6 @@
 </div>
 
 ###
+
+<h2 align="left">Thank you for visiting my profile! 👋</h2>
+
